@@ -6,7 +6,7 @@ Design principles do not provide implementation and not bound to any programming
 
  + Keep it Simple(,) Stupid / Keep it Short & Simple - **KISS**
  + Don't repeat yourself - **DRY**
- + S.O.L.I.D.
+ + **SOLID**
     - **S**ingle responsibility principle - **SRP**
     - **O**pen/closed principle - **OCP**
     - **L**iskov substitution principle - **LSP** 
@@ -17,6 +17,7 @@ Design principles do not provide implementation and not bound to any programming
  + Separation of Concerns
  + Encapsulate What Changes
  + Favor Composition over Inheritance
+ + Extract when it Grows
 
 References:
  - https://hackernoon.com/10-oop-design-principles-every-programmer-should-know-f187436caf65
