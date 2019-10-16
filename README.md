@@ -7,11 +7,11 @@ Design principles do not provide implementation and not bound to any programming
  + Keep it Simple(,) Stupid / Keep it Short & Simple - **KISS**
  + Don't repeat yourself - **DRY**
  + **SOLID**
-    - **S**ingle responsibility principle - **SRP**
-    - **O**pen/closed principle - **OCP**
-    - **L**iskov substitution principle - **LSP** 
-    - **I**nterface segregation principle - **ISP**
-    - **D**ependency-inversion principle - **DIP**
+    - [**S**ingle responsibility principle - **SRP**](SRP/Single%20Responsibility%20Principle.md)
+    - [**O**pen/closed principle - **OCP**](OCP/Open%20Closed%20Principle.md)
+    - [**L**iskov substitution principle - **LSP**](LSP/Liskov%20substitution%20principle.md) 
+    - [**I**nterface segregation principle - **ISP**](ISP/Interface%20segregation%20principle.md)
+    - [**D**ependency-inversion principle - **DIP**](DIP/Dependency%20Inversion%20Principle.md)
  + You Aren’t Gonna Need It - **YAGNI**
  + Avoid Premature Optimization
  + Separation of Concerns
