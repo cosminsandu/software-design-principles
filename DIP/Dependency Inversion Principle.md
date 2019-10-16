@@ -5,7 +5,8 @@
 
 *Source*: Robert C. Martin. Agile Principle Patterns and Practices [PPP].
 
-In programming, the dependency inversion principle is a way to decouple software modules.
+In programming, the dependency inversion principle is a way to decouple software modules. 
+This way, instead of high-level modules depending on low-level modules, both will depend on abstractions.
 
  Entities must depend on abstractions not on concretions. 
  It states that the high level module must not depend on the low level module, but they should depend on abstractions.

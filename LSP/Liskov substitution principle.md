@@ -11,6 +11,9 @@
 
 *Source*:  Barbara Liskov
 
+Simply put, if class A is a subtype of class B, 
+then we should be able to replace B with A without disrupting the behavior of our program.
+
 or Derived classes must be substitutable for their base classes.
 
 
