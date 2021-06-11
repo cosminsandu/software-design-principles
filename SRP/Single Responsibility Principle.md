@@ -17,6 +17,10 @@ Benefits:
 
 The key benefit of this principle is that it reduces coupling between the individual component of the software and Code.
 
+> Keep only related things together.
+>
+> Write classes so that your code "fits in your head".
+
 
 ![image](single_responsiblity_principle.jpg)
 ![image](SingleResponsibilityPrinciple.jpg)

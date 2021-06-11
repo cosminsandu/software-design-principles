@@ -27,7 +27,7 @@ References:
  - [Bob Martin SOLID Principles of Object Oriented and Agile Design](https://www.youtube.com/watch?v=TMuno5RZNeE) (Youtube unlisted)
  - [The S.O.L.I.D. Principles of OO and Agile Design - by Uncle Bob Martin](https://www.youtube.com/watch?v=t86v3N4OshQ)
  - [Victor Rentea - Evolving a Clean, Pragmatic Architecture – A Software Crafter’s Guide](https://www.youtube.com/watch?v=tMHO7_RLxgQ)
- - [Why Every Element of SOLID is Wrong](https://speakerdeck.com/tastapod/why-every-element-of-solid-is-wrong)
+ - [Why Every Element of SOLID is Wrong](https://speakerdeck.com/tastapod/why-every-element-of-solid-is-wrong) & [blogpost](https://dannorth.net/2021/03/16/cupid-the-back-story/)
  - https://symfonycasts.com/screencast/solid
  - http://anastasionico.uk/blog/solid-principles-in-objected-oriented-programming-with-examples-php
  

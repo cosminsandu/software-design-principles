@@ -1,7 +1,11 @@
-# Open Closed Principle (OCP)
+ # Open Closed Principle (OCP)
 > Software entities (classes, modules, functions, etc.) should be open for extension but closed for modification.
 
 *Source*: Robert C. Martin. Agile Principle Patterns and Practices [PPP] from Meyer97.
+
+> Design your classes so that you can change their behavior without changing their code.
+
+*Source*: symfonycasts
 
 OCP advises us to refactor the system so that further changes to dependent modules will not cause more modifications.
 
@@ -9,7 +13,9 @@ OCP advises us to refactor the system so that further changes to dependent modul
   1. They are **open for extension** - This means that the behavior of the module can be extended.
   2. They are **closed for modification** - Extending the behavior of a module does not result in changes to the source
 
-You should be able to extend a classes behavior, without modifying it.
+You should be able to extend a classes behavior, without modifying it. 
+OR
+You should be able to change what a class does, without changing its code.
 
 Real example: an open source library (in /vendor folder).
 

@@ -15,7 +15,20 @@ This way, instead of high-level modules depending on low-level modules, both wil
   
  Depend on abstractions, not on concretions.
 
+> 1. Classes should depend on interfaces instead of concrete classes.
+> 2. Those interfaces should be designed by the class that uses them, not by the classes that will implement them.
+> 
+> Simply put: DIP is all about decoupling.
+> 
+> Prefer type-hinting interfaces and allow each interface to be designed for the "high level" class that will use it, 
+> instead of for the low-level class that will implement it.
+> 
+> This is one of the core strategies to writing "framework agnostic" code.
+> 
+> So my advice is this: unless you're writing code that will be shared across projects, 
+> do not create an interface until you have more than one class that would implement it...
 
+*Source*: symfonycasts
 
 
 ![image](DependencyInversionPrinciple.jpg)
