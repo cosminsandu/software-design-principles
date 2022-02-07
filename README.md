@@ -31,6 +31,7 @@ References:
  - https://symfonycasts.com/screencast/solid
  - http://anastasionico.uk/blog/solid-principles-in-objected-oriented-programming-with-examples-php
  - https://azeynalli1990.medium.com/software-architecture-cheat-sheet-for-daily-usage-9923922ea75b
+ - https://discourse.world/h/2018/08/06/Clean-pragmatic-architecture.Brainstorm & https://www.youtube.com/watch?v=mBxpOvlbAow
  
 
 
