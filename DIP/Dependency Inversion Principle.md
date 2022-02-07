@@ -32,3 +32,4 @@ This way, instead of high-level modules depending on low-level modules, both wil
 
 
 ![image](DependencyInversionPrinciple.jpg)
+![image](https://habrastorage.org/getpro/habr/post_images/c2c/cc2/cd0/c2ccc2cd0309a4c8f97b7521cfc63fb7.jpg)
