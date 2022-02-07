@@ -24,3 +24,4 @@ The key benefit of this principle is that it reduces coupling between the indivi
 
 ![image](single_responsiblity_principle.jpg)
 ![image](SingleResponsibilityPrinciple.jpg)
+![image](SRP-victor-rentea.png)
