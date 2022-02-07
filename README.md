@@ -18,6 +18,7 @@ Design principles do not provide implementation and not bound to any programming
  + Separation of Concerns
  + Encapsulate What Changes
  + Favor Composition over Inheritance
+ + Separate Data fron Logic
  + Extract when it Grows
 
 References:
