@@ -7,11 +7,11 @@ Design principles do not provide implementation and not bound to any programming
  + Keep it Simple(,) Stupid / Keep it Short & Simple - **KISS**
  + Don't repeat yourself - **DRY**
  + **SOLID**
-    - [**S**ingle responsibility principle - **SRP**](SRP/Single%20Responsibility%20Principle.md) - class should do only one task
-    - [**O**pen/closed principle - **OCP**](OCP/Open%20Closed%20Principle.md) — class should be extended not modified
-    - [**L**iskov substitution principle - **LSP**](LSP/Liskov%20substitution%20principle.md) - derived classes must be substitutable for their base classes
-    - [**I**nterface segregation principle - **ISP**](ISP/Interface%20segregation%20principle.md) - interfaces should be fine-grained
-    - [**D**ependency-inversion principle - **DIP**](DIP/Dependency%20Inversion%20Principle.md) - depend on abstractions, not on concretions
+   1. [**S**ingle responsibility principle - **SRP**](SRP/Single%20Responsibility%20Principle.md) - class should do only one task
+   2. [**O**pen/closed principle - **OCP**](OCP/Open%20Closed%20Principle.md) — class should be extended not modified
+   3. [**L**iskov substitution principle - **LSP**](LSP/Liskov%20substitution%20principle.md) - derived classes must be substitutable for their base classes
+   4. [**I**nterface segregation principle - **ISP**](ISP/Interface%20segregation%20principle.md) - interfaces should be fine-grained
+   5. [**D**ependency-inversion principle - **DIP**](DIP/Dependency%20Inversion%20Principle.md) - depend on abstractions, not on concretions
  + Command Query Responsibility Segregation **CQRS**
  + You Aren’t Gonna Need It - **YAGNI**
  + Avoid Premature Optimization
