@@ -20,6 +20,7 @@ Design principles do not provide implementation and not bound to any programming
  + Favor Composition over Inheritance
  + Separate Data fron Logic
  + Extract when it Grows
+ + [Inversion of Control (IoC)](IoC/Inversion%20of%20Control.md)
 
 References:
  - https://hackernoon.com/10-oop-design-principles-every-programmer-should-know-f187436caf65
